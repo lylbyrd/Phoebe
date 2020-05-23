@@ -1,0 +1,26 @@
+.phobox{
+	background-color: teal;
+	width: 800px;
+	padding: 50px;
+	border: 20px double white;	
+	box-sizing: border-box;
+	margin: 40px auto;
+	text-align: center;
+}
+h2{
+	padding: 20px;
+	font-size: 60px;
+	font-style: italic;
+	padding: 20px;
+	margin: 0 auto;
+	color:white;
+	border: 20px double white;
+	background-color: coral;
+	font-family: 'Chelsea Market', cursive;
+}
+.phopic{
+	margin: 20px;
+	border-radius: 250px;
+    width: 300px;
+    border: 20px double white;
+}
